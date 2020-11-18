@@ -13,4 +13,8 @@ public class NazarsUtil {
     public static void sayHello(String name) {
         System.out.println("Hello: " + name);
     }
+
+    public static void sayHello(String name, String lastName) {
+        System.out.println("Hello: " + name + lastName);
+    }
 }
