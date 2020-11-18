@@ -1,5 +1,7 @@
 package utils;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 public class Substring {
     public static void main(String[] args) {
 
@@ -12,7 +14,8 @@ public class Substring {
     }
     public static void hello(String name){
         System.out.println("Hello: " + name);
-
+        System.out.println("======================");
     }
+
 
 }
