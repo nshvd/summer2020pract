@@ -33,4 +33,5 @@ public class NazarsUtil {
     public static void weather(String day, String night){
         System.out.println("Today's weather is" + day + night);
     }
+
 }
