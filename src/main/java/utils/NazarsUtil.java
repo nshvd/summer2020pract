@@ -25,4 +25,8 @@ public class NazarsUtil {
     public static void sayHello2(String name, String lastName) {
         System.out.println("Hello: " + name + lastName);
     }
+
+    public static void printSum(int i, int j) {
+        System.out.println(i + j);
+    }
 }
