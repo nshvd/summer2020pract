@@ -26,6 +26,10 @@ public class NazarsUtil {
         System.out.println("Hello: " + name + lastName);
     }
 
+    public static void printSum(int i, int j) {
+        System.out.println(i + j);
+    }
+
     public static void weather(String day, String night){
         System.out.println("Today's weather is" + day + night);
     }
