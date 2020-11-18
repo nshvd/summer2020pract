@@ -6,12 +6,10 @@ public class Util1 {
         System.out.println("logging in using: " + username + ", pswd:" + password);
     }
 
-    public static void search(){
-        System.out.println("Hi Hello!");
+    public static void searchFor(String searchValue){
+        System.out.println("Searching for etc.");
     }
 
 
-    public static void searchFor(String searchVal){
-        System.out.println("Searching For: " + searchVal);
-    }
+
 }
