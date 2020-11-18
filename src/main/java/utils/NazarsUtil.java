@@ -25,4 +25,9 @@ public class NazarsUtil {
     public static void sayHello2(String name, String lastName) {
         System.out.println("Hello: " + name + lastName);
     }
+
+    public void byeBye(){
+        System.out.println("say bye!");
+    }
+
 }
