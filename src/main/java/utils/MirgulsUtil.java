@@ -8,4 +8,8 @@ public class MirgulsUtil {
     public static void  sayBye(){
         System.out.println("Bye Bye!:::");
     }
+
+    public static void  Buy (){
+        System.out.println("Hye!:::");
+    }
 }
