@@ -14,10 +14,10 @@ public class Substring {
         System.out.println("Hello: " + name);
         System.out.println("++++++++++++++++");
     }
-    public static void Before(){
+    public static void Before3(){
         System.out.println("=========");
     }
-    public static void After(){
+    public static void After2(){
         System.out.println("=========");
         System.out.println("---------------------");
     }
