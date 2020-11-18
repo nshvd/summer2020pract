@@ -19,6 +19,7 @@ public class Substring {
     }
     public static void After(){
         System.out.println("=========");
+        System.out.println("---------------------");
     }
 
 
