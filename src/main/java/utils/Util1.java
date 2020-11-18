@@ -14,5 +14,4 @@ public class Util1 {
     public static void searchFor(String searchVal){
         System.out.println("Searching For: " + searchVal);
     }
-
 }
