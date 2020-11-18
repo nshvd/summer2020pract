@@ -25,8 +25,4 @@ public class NazarsUtil {
     public static void sayHello2(String name, String lastName) {
         System.out.println("Hello: " + name + lastName);
     }
-
-    public static void weather(String day, String night){
-        System.out.println("Today's weather is" + day + night);
-    }
 }
