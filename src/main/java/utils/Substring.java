@@ -17,6 +17,10 @@ public class Substring {
     public static void Before(){
         System.out.println("=========");
     }
+    public static void After(){
+        System.out.println("=========");
+    }
+
 
 
 }
