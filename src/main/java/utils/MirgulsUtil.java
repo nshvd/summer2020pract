@@ -9,7 +9,7 @@ public class MirgulsUtil {
         System.out.println("Bye Bye!:::");
     }
 
-    public static void  Buy2 (){
+    public static void  Sell (){
         System.out.println("Hye!:::");
     }
 
