@@ -14,5 +14,9 @@ public class Substring {
         System.out.println("Hello: " + name);
         System.out.println("++++++++++++++++");
     }
+    public static void Before(){
+        System.out.println("=========");
+    }
+
 
 }
