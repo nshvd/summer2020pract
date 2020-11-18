@@ -39,11 +39,10 @@ public class NazarsUtil {
     public static void weather(String day, String night){
         System.out.println("Today's weather is" + day + night);
     }
-<<<<<<< HEAD
+
 
     public static void conflictMakingFromAzamat(){
         System.out.println("is conflict made ?");
     }
-=======
->>>>>>> 9a8f68bef594fc96ff501d1a757c57250517773e
+
 }
