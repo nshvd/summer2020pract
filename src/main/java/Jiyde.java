@@ -8,7 +8,7 @@ public class Jiyde {
         for (int i=1; i<=nums; i++) {
             for (int j=1; j<=nums; j++) {
 
-                System.out.printf ("%4d",i*j);
+                System.out.printf ("%5d",i*j);
             }
             System.out.println();
         }
