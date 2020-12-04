@@ -7,11 +7,11 @@ public class Jiyde {
         int numbers = sc.nextInt();
         for (int i=1; i<=numbers; i++) {
             for (int j=1; j<=numbers; j++) {
-
-                System.out.printf ("%4d",i*j);
+                System.out.println("Hello from ");
             }
             System.out.println();
         }
         System.out.println("hello "+ numbers);
+
     }
 }
