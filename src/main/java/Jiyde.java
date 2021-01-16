@@ -16,7 +16,7 @@ public class Jiyde {
             System.out.println();
         }
 
-        System.out.print("hello "+ numbers+numbers);
+        System.out.print("conflict  "+ numbers+numbers+numbers);
 
 
 
