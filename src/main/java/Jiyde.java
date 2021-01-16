@@ -15,7 +15,10 @@ public class Jiyde {
             }
             System.out.println();
         }
-        System.out.println("changed again "+ numbers);
+
+        System.out.print("hello "+ numbers+numbers);
+
+
 
     }
 }
